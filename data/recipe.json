@@ -1,0 +1,414 @@
+[
+        {
+            "id": 1,
+            "country": "korean",
+            "picture": "../assets/chef-img/chef-1.jpeg",
+            "name": "Maria",
+            "years_of_experience": 15,
+            "banner_img": "../assets/chef-img/chef-1-rmv.png",
+            "num_recipes": 50,
+            "likes": 10000,
+            "description": "Maria is a skilled chef with over 15 years of experience in traditional Mexican cuisine. She has worked in various restaurants across Mexico and has won multiple awards for her dishes.",
+            "recipes": [
+                {   
+                    "id" : 1,
+                    "name": "Tacos al Pastor",
+                    "image": "../assets/recipe-img/Tacos al Pastor.png",
+                    "ingredients": [
+                        "1 lb pork shoulder, sliced",
+                        "1/2 cup pineapple, diced",
+                        "1/4 cup white vinegar",
+                        "1 tbsp chili powder",
+                        "1 tsp dried oregano",
+                        "1 tsp ground cumin",
+                        "1/2 tsp salt",
+                        "1/4 tsp black pepper",
+                        "12 corn tortillas",
+                        "1/2 cup chopped onion",
+                        "1/4 cup chopped cilantro",
+                        "1 lime, cut into wedges"
+                    ],
+                    "cooking_method": "1. In a large bowl, mix together pork, pineapple, vinegar, chili powder, oregano, cumin, salt, and black pepper. 2. Cover and refrigerate for at least 1 hour. 3. Heat a large skillet over medium-high heat. 4. Cook pork mixture until browned and cooked through, about 10 minutes. 5. Warm tortillas in the microwave or on a griddle. 6. Fill tortillas with pork mixture, onion, cilantro, and a squeeze of lime. 7. Serve immediately.",
+                    "rating": 4.7
+                },
+                {   
+                    "id" : 2,
+                    "name": "Chiles Rellenos",
+                    "image":"../assets/recipe-img/Chiles Rellenos.png",
+                    "ingredients": [
+                        "6 poblano peppers",
+                        "1/2 lb ground beef",
+                        "1/2 lb ground pork",
+                        "1/2 cup cooked rice",
+                        "1/2 cup diced onion",
+                        "2 cloves garlic, minced",
+                        "1/2 tsp ground cumin",
+                        "1/2 tsp dried oregano",
+                        "1/2 tsp salt",
+                        "1/4 tsp black pepper",
+                        "1 cup shredded cheese",
+                        "1 egg, beaten",
+                        "1/4 cup flour",
+                        "1/4 cup vegetable oil",
+                        "1 cup tomato sauce",
+                        "1/4 cup sour cream"
+                    ],
+                    "cooking_method": "1. Preheat broiler to high. 2. Place poblanos on a baking sheet and broil until skin is charred, about 5 minutes per side. 3. Transfer poblanos to a large bowl and cover with plastic wrap. 4. Let sit for 10 minutes, then peel off skin and remove seeds. 5. In a large skillet, cook ground beef, pork, onion, and garlic over medium-high heat until browned and cooked through, about 10 minutes. 6. Stir in cooked rice, cumin, oregano, salt, and black pepper. 7. Stuff each poblano with the beef mixture and a small handful of shredded cheese. 8. Close the opening with a toothpick. 9. In a shallow bowl, whisk together egg and flour. 10. Heat oil in a large skillet over medium-high heat. 11. Dip stuffed poblanos in egg mixture and coat with flour. 12. Fry poblanos in oil until golden brown.",
+                    "rating": 4.5
+                },
+                { 
+                    "id" : 3,
+                    "name": "Guacamole",
+                    "image": "../assets/recipe-img/Sushi Rolls.jpeg",
+                    "ingredients": [
+                        "3 avocados, pitted and peeled",
+                        "1/2 cup chopped onion",
+                        "1/2 cup chopped tomato",
+                        "2 tbsp chopped cilantro",
+                        "1 jalapeno pepper, seeded and minced",
+                        "1 garlic clove, minced",
+                        "1 lime, juiced",
+                        "1/2 tsp salt"
+                    ],
+                    "cooking_method": "1. In a large bowl, mash avocados until mostly smooth. 2. Stir in onion, tomato, cilantro, jalapeno, garlic, lime juice, and salt until well combined. 3. Serve immediately.",
+                    "rating": 4.9
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "country": "korean",
+            "picture": "../assets/chef-img/chef-2.jpeg",
+            "name": "Nivanni",
+            "years_of_experience": 10,
+            "banner_img": "../assets/chef-img/chef-2-rmv.png",
+            "num_recipes": 50,
+            "likes": 50000,
+            "description": "Nivanni is a passionate chef with over 10 years of experience in Italian cuisine. He has owned and operated his own restaurant in Rome and has trained under some of the best chefs in Italy.",
+            "recipes": [
+                {
+                    "id" : 1,
+                    "name": "Spaghetti Carbonara",
+                    "image": "../assets/recipe-img/Spaghetti Carbonara.jpeg",
+                    "ingredients": [
+                        "1 lb spaghetti",
+                        "1/2 lb pancetta, diced",
+                        "4 cloves garlic, minced",
+                        "4 eggs",
+                        "1 cup grated parmesan cheese",
+                        "1/2 cup chopped parsley",
+                        "1/2 tsp salt",
+                        "1/4 tsp black pepper"
+                    ],
+                    "cooking_method": "1. Cook spaghetti according to package instructions. 2. While spaghetti is cooking, heat a large skillet over medium-high heat. 3. Add pancetta and cook until crispy, about 5 minutes. 4. Add garlic and cook for an additional 30 seconds. 5. In a small bowl, whisk together eggs, parmesan cheese, parsley, salt, and black pepper. 6. Drain spaghetti and add to the skillet with the pancetta. 7. Remove skillet from heat and pour egg mixture over spaghetti, stirring quickly to coat. 8. Serve immediately.",
+                    "rating": 4.8
+                },
+                {
+                    "id" : 2,
+                    "name": "Margherita Pizza",
+                    "image": "../assets/recipe-img/pizza.jpeg",
+                    "ingredients": [
+                        "1 lb pizza dough",
+                        "1/2 cup tomato sauce",
+                        "1/2 cup fresh mozzarella cheese, sliced",
+                        "2 tbsp chopped basil",
+                        "2 tbsp olive oil",
+                        "1/2 tsp salt",
+                        "1/4 tsp black pepper"
+                    ],
+                    "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a lightly floured surface. 3. Place dough on a lightly greased baking sheet. 4. Spread tomato sauce over dough, leaving a 1/2-inch border. 5. Top with sliced mozzarella cheese and chopped basil. 6. Drizzle olive oil over pizza and sprinkle with salt and black pepper. 7. Bake for 10-12 minutes, until crust is golden brown and cheese is melted and bubbly. 8. Serve immediately.",
+                    "rating": 4.7
+                },
+                {
+                    "id" : 3,
+                    "name": "Kuacamole",
+                    "image": "../assets/recipe-img/Chiles Rellenos.png",
+                    "ingredients": [
+                        "3 avocados, pitted and peeled",
+                        "1/2 cup chopped onion",
+                        "1/2 cup chopped tomato",
+                        "2 tbsp chopped cilantro",
+                        "1 jalapeno pepper, seeded and minced",
+                        "1 garlic clove, minced",
+                        "1 lime, juiced",
+                        "1/2 tsp salt"
+                    ],
+                    "cooking_method": "1. In a large bowl, mash avocados until mostly smooth. 2. Stir in onion, tomato, cilantro, jalapeno, garlic, lime juice, and salt until well combined. 3. Serve immediately.",
+                    "rating": 4.9
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "country": "korean",
+            "picture": "../assets/chef-img/chef-3.jpeg",
+            "name": "Giovanni",
+            "years_of_experience": 20,
+            "banner_img": "../assets/chef-img/chef-3-rmv.png",
+            "num_recipes": 80,
+            "likes": 20000,
+            "description": "Giovanni is a passionate chef with over 20 years of experience in Italian cuisine. He has owned and operated his own restaurant in Rome and has trained under some of the best chefs in Italy.",
+            "recipes": [
+                {
+                    "id" : 1,
+                    "name": "Carbonara",
+                    "image": "../assets/recipe-img//Spaghetti Carbonara.jpeg",
+                    "ingredients": [
+                        "1 lb spaghetti",
+                        "1/2 lb pancetta, diced",
+                        "4 cloves garlic, minced",
+                        "4 eggs",
+                        "1 cup grated parmesan cheese",
+                        "1/2 cup chopped parsley",
+                        "1/2 tsp salt",
+                        "1/4 tsp black pepper"
+                    ],
+                    "cooking_method": "1. Cook spaghetti according to package instructions. 2. While spaghetti is cooking, heat a large skillet over medium-high heat. 3. Add pancetta and cook until crispy, about 5 minutes. 4. Add garlic and cook for an additional 30 seconds. 5. In a small bowl, whisk together eggs, parmesan cheese, parsley, salt, and black pepper. 6. Drain spaghetti and add to the skillet with the pancetta. 7. Remove skillet from heat and pour egg mixture over spaghetti, stirring quickly to coat. 8. Serve immediately.",
+                    "rating": 4.8
+                },
+                {
+                    "id" : 2,
+                    "name": "gherita Pizza",
+                    "image": "../assets/recipe-img/pizza.jpeg",
+                    "ingredients": [
+                        "1 lb pizza dough",
+                        "1/2 cup tomato sauce",
+                        "1/2 cup fresh mozzarella cheese, sliced",
+                        "2 tbsp chopped basil",
+                        "2 tbsp olive oil",
+                        "1/2 tsp salt",
+                        "1/4 tsp black pepper"
+                    ],
+                    "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a lightly floured surface. 3. Place dough on a lightly greased baking sheet. 4. Spread tomato sauce over dough, leaving a 1/2-inch border. 5. Top with sliced mozzarella cheese and chopped basil. 6. Drizzle olive oil over pizza and sprinkle with salt and black pepper. 7. Bake for 10-12 minutes, until crust is golden brown and cheese is melted and bubbly. 8. Serve immediately.",
+                    "rating": 4.7
+                },
+                {
+                    "id" : 3,
+                    "name": "Tiramisu",
+                    "image": "../assets/recipe-img/Chiles Rellenos.png",
+                    "ingredients": [
+                        "6 egg yolks",
+                        "3/4 cup sugar",
+                        "2/3 cup milk",
+                        "1 1/4 cups heavy cream",
+                        "1/2 tsp vanilla extract",
+                        "1 lb mascarpone cheese",
+                        "2 cups brewed espresso",
+                        "24 ladyfingers",
+                        "1/4 cup cocoa powder"
+                    ],
+                    "cooking_method": "1. In a large bowl, beat egg yolks and sugar until pale and creamy. 2. In a small saucepan, heat milk over medium heat until just simmering. 3. Gradually pour milk into egg mixture, whisking constantly. 4. Pour mixture back into saucepan and cook over low heat, stirring constantly, until thickened and coats the back of a spoon, about 5-7 minutes. 5. Remove from heat and let cool completely. 6. In a large bowl, beat heavy cream and vanilla extract until stiff peaks form. 7. In a separate bowl, beat mascarpone cheese until smooth. 8. Fold mascarpone cheese into egg mixture until well combined. 9. Dip ladyfingers in brewed espresso and layer in a 9x13 inch dish. 10. Spread half of the mascarpone mixture over the ladyfingers. 11. Repeat with another layer of ladyfingers and mascarpone mixture. 12. Refrigerate for at least 2 hours or overnight. 13. Before serving, sprinkle cocoa powder over the top of the tiramisu. 14. Serve chilled.",
+                    "rating": 4.9
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "country": "korean",
+            "picture": "../assets/chef-img/chef-4.jpeg",
+            "name": "Yoshi",
+            "years_of_experience": 15,
+            "banner_img": "../assets/chef-img/chef-4-rmv.png",
+            "num_recipes": 50,
+            "likes": 15000,
+            "description": "Yoshi is a skilled Japanese chef with over 15 years of experience. He has worked in some of the best restaurants in Tokyo and specializes in traditional Japanese cuisine.",
+            "recipes": [
+                { 
+                    "id" : 1,
+                    "name": "Sushi Rolls",
+                    "image": "../assets/recipe-img/Sushi Rolls.jpeg",
+                    "ingredients": [
+                        "2 cups sushi rice",
+                        "2 1/4 cups water",
+                        "1/4 cup rice vinegar",
+                        "2 tbsp sugar",
+                        "1 tsp salt",
+                        "4 sheets nori",
+                        "1/2 lb sushi-grade raw fish",
+                        "1/2 avocado, sliced",
+                        "1/2 cucumber, sliced",
+                        "Wasabi and soy sauce, for serving"
+                    ],
+                    "cooking_method": "1. Rinse sushi rice in cold water until water runs clear. 2. In a medium saucepan, combine rice and water and bring to a boil. 3. Reduce heat to low and simmer, covered, for 18-20 minutes, or until rice is cooked and water is absorbed. 4. In a small saucepan, heat rice vinegar, sugar, and salt over low heat, stirring until sugar is dissolved. 5. Transfer cooked rice to a large bowl and stir in vinegar mixture until well combined. 6. Lay a sheet of nori on a sushi mat or piece of plastic wrap. 7. Spread a thin layer of rice over the nori, leaving a 1/2-inch border at the top. 8. Arrange slices of raw fish, avocado, and cucumber on top of the rice. 9. Using the mat or plastic wrap, roll the sushi tightly, tucking in the filling as you go. 10. Repeat with remaining nori and filling. 11. Slice sushi rolls into bite-sized pieces and serve with wasabi and soy sauce.",
+                    "rating": 4.6
+                },
+                {
+                    "id" : 2,
+                    "name": "Tempura",
+                    "image": "../assets/recipe-img/Tacos al Pastor.png",
+                    "ingredients": [
+                        "1 cup all-purpose flour",
+                        "1 cup ice-cold water",
+                        "1 egg yolk",
+                        "1/2 tsp salt",
+                        "1/2 lb shrimp, peeled and deveined",
+                        "1/2 lb assorted vegetables, such as sweet potato, bell pepper, and broccoli",
+                        "Vegetable oil, for frying",
+                        "Soy sauce, for serving"
+                    ],
+                    "cooking_method": "1. In a large bowl, whisk together flour, ice-cold water, egg yolk, and salt until just combined. 2. Heat vegetable oil in a large pot or deep-fryer until it reaches 350°F. 3. Dip shrimp and vegetables in the batter, shaking off any excess. 4. Fry in batches until golden brown, about 2-3 minutes per side. 5. Drain on a paper towel-lined plate. 6. Serve with soy sauce.",
+                    "rating": 4.8
+                },
+                {
+                    "id" : 3,
+                    "name": "Ramen",
+                    "image": "../assets/recipe-img//Spaghetti Carbonara.jpeg",
+                    "ingredients": [
+                        "4 cups chicken broth",
+                        "2 cloves garlic, minced",
+                        "2 tbsp soy sauce",
+                        "2 tbsp miso paste",
+                        "1 tbsp mirin",
+                        "1 tbsp sesame oil",
+                        "1/2 lb ramen noodles",
+                        "4 boiled eggs, halved",
+                        "4 slices pork belly",
+                        "4 green onions, sliced",
+                        "4 sheets nori",
+                        "Sriracha, for serving"
+                    ],
+                    "cooking_method": "1. In a large pot, heat chicken broth, garlic, soy sauce, miso paste, mirin, and sesame oil over medium heat until just simmering. 2. Cook ramen noodles according to package instructions. 3. Divide cooked noodles among four bowls. 4. Ladle hot broth over the noodles. 5. Top each bowl with a halved boiled egg, a slice of pork belly, sliced green onions, and a sheet of nori. 6. Serve with Sriracha.",
+                    "rating": 4.9
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "country": "korean",
+            "picture": "../assets/chef-img/chef-5.jpeg",
+            "name": "Oxina",
+            "years_of_experience": 15,
+            "banner_img": "../assets/chef-img/chef-5-rmv.png",
+            "num_recipes": 16,
+            "likes": 40000,
+            "description": "Oxina is a skilled chef with over 15 years of experience in traditional Mexican cuisine. She has worked in various restaurants across Mexico and has won multiple awards for her dishes.",
+            "recipes": [
+                {   
+                    "id" : 1,
+                    "name": "Tacos Pastor",
+                    "image": "../assets/recipe-img/Tacos al Pastor.png",
+                    "ingredients": [
+                        "1 lb pork shoulder, sliced",
+                        "1/2 cup pineapple, diced",
+                        "1/4 cup white vinegar",
+                        "1 tbsp chili powder",
+                        "1 tsp dried oregano",
+                        "1 tsp ground cumin",
+                        "1/2 tsp salt",
+                        "1/4 tsp black pepper",
+                        "12 corn tortillas",
+                        "1/2 cup chopped onion",
+                        "1/4 cup chopped cilantro",
+                        "1 lime, cut into wedges"
+                    ],
+                    "cooking_method": "1. In a large bowl, mix together pork, pineapple, vinegar, chili powder, oregano, cumin, salt, and black pepper. 2. Cover and refrigerate for at least 1 hour. 3. Heat a large skillet over medium-high heat. 4. Cook pork mixture until browned and cooked through, about 10 minutes. 5. Warm tortillas in the microwave or on a griddle. 6. Fill tortillas with pork mixture, onion, cilantro, and a squeeze of lime. 7. Serve immediately.",
+                    "rating": 4.7
+                },
+                {   
+                    "id" : 2,
+                    "name": "Rellenos",
+                    "image":"../assets/recipe-img/Chiles Rellenos.png",
+                    "ingredients": [
+                        "6 poblano peppers",
+                        "1/2 lb ground beef",
+                        "1/2 lb ground pork",
+                        "1/2 cup cooked rice",
+                        "1/2 cup diced onion",
+                        "2 cloves garlic, minced",
+                        "1/2 tsp ground cumin",
+                        "1/2 tsp dried oregano",
+                        "1/2 tsp salt",
+                        "1/4 tsp black pepper",
+                        "1 cup shredded cheese",
+                        "1 egg, beaten",
+                        "1/4 cup flour",
+                        "1/4 cup vegetable oil",
+                        "1 cup tomato sauce",
+                        "1/4 cup sour cream"
+                    ],
+                    "cooking_method": "1. Preheat broiler to high. 2. Place poblanos on a baking sheet and broil until skin is charred, about 5 minutes per side. 3. Transfer poblanos to a large bowl and cover with plastic wrap. 4. Let sit for 10 minutes, then peel off skin and remove seeds. 5. In a large skillet, cook ground beef, pork, onion, and garlic over medium-high heat until browned and cooked through, about 10 minutes. 6. Stir in cooked rice, cumin, oregano, salt, and black pepper. 7. Stuff each poblano with the beef mixture and a small handful of shredded cheese. 8. Close the opening with a toothpick. 9. In a shallow bowl, whisk together egg and flour. 10. Heat oil in a large skillet over medium-high heat. 11. Dip stuffed poblanos in egg mixture and coat with flour. 12. Fry poblanos in oil until golden brown.",
+                    "rating": 4.5
+                },
+                { 
+                    "id" : 3,
+                    "name": "Suacamole",
+                    "image": "../assets/recipe-img/Sushi Rolls.jpeg",
+                    "ingredients": [
+                        "3 avocados, pitted and peeled",
+                        "1/2 cup chopped onion",
+                        "1/2 cup chopped tomato",
+                        "2 tbsp chopped cilantro",
+                        "1 jalapeno pepper, seeded and minced",
+                        "1 garlic clove, minced",
+                        "1 lime, juiced",
+                        "1/2 tsp salt"
+                    ],
+                    "cooking_method": "1. In a large bowl, mash avocados until mostly smooth. 2. Stir in onion, tomato, cilantro, jalapeno, garlic, lime juice, and salt until well combined. 3. Serve immediately.",
+                    "rating": 4.6
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "country": "korean",
+            "picture": "../assets/chef-img/chef-6.jpeg",
+            "name": "Yuven",
+            "years_of_experience": 10,
+            "banner_img": "../assets/chef-img/chef-6-rmv.png",
+            "num_recipes": 30,
+            "likes": 60000,
+            "description": "Yuven is a passionate chef with over 10 years of experience in Italian cuisine. He has owned and operated his own restaurant in Rome and has trained under some of the best chefs in Italy.",
+            "recipes": [
+                {
+                    "id" : 1,
+                    "name": "Spaghetti Carbonara",
+                    "image": "../assets/recipe-img/Spaghetti Carbonara.jpeg",
+                    "ingredients": [
+                        "1 lb spaghetti",
+                        "1/2 lb pancetta, diced",
+                        "4 cloves garlic, minced",
+                        "4 eggs",
+                        "1 cup grated parmesan cheese",
+                        "1/2 cup chopped parsley",
+                        "1/2 tsp salt",
+                        "1/4 tsp black pepper"
+                    ],
+                    "cooking_method": "1. Cook spaghetti according to package instructions. 2. While spaghetti is cooking, heat a large skillet over medium-high heat. 3. Add pancetta and cook until crispy, about 5 minutes. 4. Add garlic and cook for an additional 30 seconds. 5. In a small bowl, whisk together eggs, parmesan cheese, parsley, salt, and black pepper. 6. Drain spaghetti and add to the skillet with the pancetta. 7. Remove skillet from heat and pour egg mixture over spaghetti, stirring quickly to coat. 8. Serve immediately.",
+                    "rating": 4.8
+                },
+                {
+                    "id" : 2,
+                    "name": "Orghern Pizza",
+                    "image": "../assets/recipe-img/pizza.jpeg",
+                    "ingredients": [
+                        "1 lb pizza dough",
+                        "1/2 cup tomato sauce",
+                        "1/2 cup fresh mozzarella cheese, sliced",
+                        "2 tbsp chopped basil",
+                        "2 tbsp olive oil",
+                        "1/2 tsp salt",
+                        "1/4 tsp black pepper"
+                    ],
+                    "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a lightly floured surface. 3. Place dough on a lightly greased baking sheet. 4. Spread tomato sauce over dough, leaving a 1/2-inch border. 5. Top with sliced mozzarella cheese and chopped basil. 6. Drizzle olive oil over pizza and sprinkle with salt and black pepper. 7. Bake for 10-12 minutes, until crust is golden brown and cheese is melted and bubbly. 8. Serve immediately.",
+                    "rating": 4.4
+                },
+                {
+                    "id" : 3,
+                    "name": "Muacamole",
+                    "image": "../assets/recipe-img/Chiles Rellenos.png",
+                    "ingredients": [
+                        "3 avocados, pitted and peeled",
+                        "1/2 cup chopped onion",
+                        "1/2 cup chopped tomato",
+                        "2 tbsp chopped cilantro",
+                        "1 jalapeno pepper, seeded and minced",
+                        "1 garlic clove, minced",
+                        "1 lime, juiced",
+                        "1/2 tsp salt"
+                    ],
+                    "cooking_method": "1. In a large bowl, mash avocados until mostly smooth. 2. Stir in onion, tomato, cilantro, jalapeno, garlic, lime juice, and salt until well combined. 3. Serve immediately.",
+                    "rating": 4.7
+                }
+            ]
+        }
+    ]
