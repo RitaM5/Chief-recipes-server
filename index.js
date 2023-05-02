@@ -12,6 +12,11 @@ app.get('/', (req, res) => {
 app.get('/recipe', (req, res) => {
     res.send(recipes);
 });
+app.get('/recipe/:id', (req, res) => {
+    const id = req.params.id;
+    const recipeDetails = recipes.find(r => r.id === id);
+    res.send(recipeDetails)
+});
 /*
 https://chef-recipe-server-rita5cmt1b108514-gmailcom.vercel.app/recipe
 app.get('/news', (req, res) => {

@@ -2,18 +2,18 @@
         {
             "id": 1,
             "country": "korean",
-            "picture": "https://ibb.co/HHnbPtB",
+            "picture": "https://i.ibb.co/HHnbPtB/chef-1.jpg",
             "name": "Maria",
             "years_of_experience": 15,
-            "banner_img": "https://ibb.co/Zdbx14Y",
-            "num_recipes": 50,
+            "banner_img": "https://i.ibb.co/Zdbx14Y/chef-1-rmv.png",
+            "num_recipes": 50, 
             "likes": 10000,
             "description": "Maria is a skilled chef with over 15 years of experience in traditional Mexican cuisine. She has worked in various restaurants across Mexico and has won multiple awards for her dishes.",
             "recipes": [
                 {   
                     "id" : 1,
                     "name": "Tacos al Pastor",
-                    "image": "https://ibb.co/qBdgghD",
+                    "image": "https://i.ibb.co/qBdgghD/Tacos-al-Pastor.jpg",
                     "ingredients": [
                         "1 lb pork shoulder, sliced",
                         "1/2 cup pineapple, diced",
@@ -34,7 +34,7 @@
                 {   
                     "id" : 2,
                     "name": "Chiles Rellenos",
-                    "image":"https://ibb.co/2ktBhKw",
+                    "image":"https://i.ibb.co/2ktBhKw/Chiles-Rellenos.jpg",
                     "ingredients": [
                         "6 poblano peppers",
                         "1/2 lb ground beef",
@@ -59,7 +59,7 @@
                 { 
                     "id" : 3,
                     "name": "Guacamole",
-                    "image": "https://ibb.co/KNw4CS7",
+                    "image": "https://i.ibb.co/wpzKtNF/mojarella.jpg",
                     "ingredients": [
                         "3 avocados, pitted and peeled",
                         "1/2 cup chopped onion",
@@ -78,10 +78,10 @@
         {
             "id": 2,
             "country": "korean",
-            "picture": "https://ibb.co/vxLv2t5",
+            "picture": "https://i.ibb.co/vxLv2t5/chef-2.jpg",
             "name": "Nivanni",
             "years_of_experience": 10,
-            "banner_img": "https://ibb.co/Px6FNW7",
+            "banner_img": "https://i.ibb.co/Px6FNW7/chef-2-rmv.png",
             "num_recipes": 50,
             "likes": 50000,
             "description": "Nivanni is a passionate chef with over 10 years of experience in Italian cuisine. He has owned and operated his own restaurant in Rome and has trained under some of the best chefs in Italy.",
@@ -89,7 +89,7 @@
                 {
                     "id" : 1,
                     "name": "Spaghetti Carbonara",
-                    "image": "https://ibb.co/wpzKtNF",
+                    "image": "https://i.ibb.co/LvRKnT6/Spaghetti-Carbonara.jpg",
                     "ingredients": [
                         "1 lb spaghetti",
                         "1/2 lb pancetta, diced",
@@ -106,7 +106,7 @@
                 {
                     "id" : 2,
                     "name": "Margherita Pizza",
-                    "image": "https://ibb.co/NybgS7X",
+                    "image": "https://i.ibb.co/NybgS7X/pizza.jpg",
                     "ingredients": [
                         "1 lb pizza dough",
                         "1/2 cup tomato sauce",
@@ -122,7 +122,7 @@
                 {
                     "id" : 3,
                     "name": "Kuacamole",
-                    "image": "",
+                    "image": "https://i.ibb.co/wpzKtNF/mojarella.jpg",
                     "ingredients": [
                         "3 avocados, pitted and peeled",
                         "1/2 cup chopped onion",
@@ -141,10 +141,10 @@
         {
             "id": 3,
             "country": "korean",
-            "picture": "https://ibb.co/k0DJYSL",
+            "picture": "https://i.ibb.co/k0DJYSL/chef-3.jpg",
             "name": "Giovanni",
             "years_of_experience": 20,
-            "banner_img": "https://ibb.co/8mtF9fK",
+            "banner_img": "https://i.ibb.co/8mtF9fK/chef-3-rmv.png",
             "num_recipes": 80,
             "likes": 20000,
             "description": "Giovanni is a passionate chef with over 20 years of experience in Italian cuisine. He has owned and operated his own restaurant in Rome and has trained under some of the best chefs in Italy.",
@@ -152,7 +152,7 @@
                 {
                     "id" : 1,
                     "name": "Carbonara",
-                    "image": "https://ibb.co/LvRKnT6",
+                    "image": "https://i.ibb.co/LvRKnT6/Spaghetti-Carbonara.jpg",
                     "ingredients": [
                         "1 lb spaghetti",
                         "1/2 lb pancetta, diced",
@@ -169,7 +169,7 @@
                 {
                     "id" : 2,
                     "name": "gherita Pizza",
-                    "image": "https://ibb.co/NybgS7X",
+                    "image": "https://i.ibb.co/NybgS7X/pizza.jpg",
                     "ingredients": [
                         "1 lb pizza dough",
                         "1/2 cup tomato sauce",
@@ -185,7 +185,7 @@
                 {
                     "id" : 3,
                     "name": "Tiramisu",
-                    "image": "https://ibb.co/2ktBhKw",
+                    "image": "https://ibb.co/2ktBhKw/Chiles Rellenos.jpg",
                     "ingredients": [
                         "6 egg yolks",
                         "3/4 cup sugar",
@@ -205,10 +205,10 @@
         {
             "id": 4,
             "country": "korean",
-            "picture": "https://ibb.co/6NYZkRk",
+            "picture": "https://i.ibb.co/6NYZkRk/chef-4.jpg",
             "name": "Yoshi",
             "years_of_experience": 15,
-            "banner_img": "https://ibb.co/jVnXxnN",
+            "banner_img": "https://i.ibb.co/jVnXxnN/chef-4-rmv.png",
             "num_recipes": 50,
             "likes": 15000,
             "description": "Yoshi is a skilled Japanese chef with over 15 years of experience. He has worked in some of the best restaurants in Tokyo and specializes in traditional Japanese cuisine.",
@@ -216,7 +216,7 @@
                 { 
                     "id" : 1,
                     "name": "Sushi Rolls",
-                    "image": "https://ibb.co/KNw4CS7",
+                    "image": "https://i.ibb.co/KNw4CS7/Sushi-Rolls.jpg",
                     "ingredients": [
                         "2 cups sushi rice",
                         "2 1/4 cups water",
@@ -235,7 +235,7 @@
                 {
                     "id" : 2,
                     "name": "Tempura",
-                    "image": "https://ibb.co/qBdgghD",
+                    "image": "https://i.ibb.co/LvRKnT6/Spaghetti-Carbonara.jpg",
                     "ingredients": [
                         "1 cup all-purpose flour",
                         "1 cup ice-cold water",
@@ -252,7 +252,7 @@
                 {
                     "id" : 3,
                     "name": "Ramen",
-                    "image": "https://ibb.co/LvRKnT6",
+                    "image": "https://ibb.co/2ktBhKw/Chiles Rellenos.jpg",
                     "ingredients": [
                         "4 cups chicken broth",
                         "2 cloves garlic, minced",
@@ -275,10 +275,10 @@
         {
             "id": 5,
             "country": "korean",
-            "picture": "https://ibb.co/8D85kcZ",
+            "picture": "https://i.ibb.co/8D85kcZ/chef-5.jpg",
             "name": "Oxina",
             "years_of_experience": 15,
-            "banner_img": "https://ibb.co/vw5GnPn",
+            "banner_img": "https://i.ibb.co/vw5GnPn/chef-5-rmv.png",
             "num_recipes": 16,
             "likes": 40000,
             "description": "Oxina is a skilled chef with over 15 years of experience in traditional Mexican cuisine. She has worked in various restaurants across Mexico and has won multiple awards for her dishes.",
@@ -286,7 +286,7 @@
                 {   
                     "id" : 1,
                     "name": "Tacos Pastor",
-                    "image": "https://ibb.co/qBdgghD",
+                    "image": "https://i.ibb.co/qBdgghD/Tacos-al-Pastor.jpg",
                     "ingredients": [
                         "1 lb pork shoulder, sliced",
                         "1/2 cup pineapple, diced",
@@ -307,7 +307,7 @@
                 {   
                     "id" : 2,
                     "name": "Rellenos",
-                    "image":"https://ibb.co/2ktBhKw",
+                    "image":"",
                     "ingredients": [
                         "6 poblano peppers",
                         "1/2 lb ground beef",
@@ -332,7 +332,7 @@
                 { 
                     "id" : 3,
                     "name": "Suacamole",
-                    "image": "https://ibb.co/KNw4CS7",
+                    "image": "https://i.ibb.co/KNw4CS7/Sushi-Rolls.jpg",
                     "ingredients": [
                         "3 avocados, pitted and peeled",
                         "1/2 cup chopped onion",
@@ -351,10 +351,10 @@
         {
             "id": 6,
             "country": "korean",
-            "picture": "https://ibb.co/KLJcCgb",
+            "picture": "https://i.ibb.co/KLJcCgb/chef-6.jpg",
             "name": "Yuven",
             "years_of_experience": 10,
-            "banner_img": "https://ibb.co/mR2cJqv",
+            "banner_img": "https://i.ibb.co/mR2cJqv/chef-6-rmv.png",
             "num_recipes": 30,
             "likes": 60000,
             "description": "Yuven is a passionate chef with over 10 years of experience in Italian cuisine. He has owned and operated his own restaurant in Rome and has trained under some of the best chefs in Italy.",
@@ -362,7 +362,7 @@
                 {
                     "id" : 1,
                     "name": "Mozarella",
-                    "image": "https://ibb.co/wpzKtNF",
+                    "image": "https://i.ibb.co/wpzKtNF/mojarella.jpg",
                     "ingredients": [
                         "1 lb spaghetti",
                         "1/2 lb pancetta, diced",
@@ -379,7 +379,7 @@
                 {
                     "id" : 2,
                     "name": "Orghern Pizza",
-                    "image": "https://ibb.co/NybgS7X",
+                    "image": "https://i.ibb.co/NybgS7X/pizza.jpg",
                     "ingredients": [
                         "1 lb pizza dough",
                         "1/2 cup tomato sauce",
@@ -395,7 +395,7 @@
                 {
                     "id" : 3,
                     "name": "Muacamole",
-                    "image": "https://ibb.co/2ktBhKw",
+                    "image": "https://i.ibb.co/2ktBhKw/Chiles-Rellenos.jpg",
                     "ingredients": [
                         "3 avocados, pitted and peeled",
                         "1/2 cup chopped onion",
