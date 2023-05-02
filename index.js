@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 5000;
-const recipes = "./data/recipe.json"
+const recipes = require("./data/recipe.json");
 const cors = require('cors');
 
 app.use(cors());
@@ -13,6 +13,7 @@ app.get('/recipe', (req, res) => {
     res.send(recipes);
 });
 /*
+https://chef-recipe-server-rita5cmt1b108514-gmailcom.vercel.app/recipe
 app.get('/news', (req, res) => {
     res.send(news);
 });
