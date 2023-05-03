@@ -20,8 +20,6 @@
                         "1/4 cup white vinegar",
                         "1 tbsp chili powder",
                         "1 tsp dried oregano",
-                        "1 tsp ground cumin",
-                        "1/2 tsp salt",
                         "1/4 tsp black pepper",
                         "12 corn tortillas",
                         "1/2 cup chopped onion",
@@ -43,17 +41,12 @@
                         "1/2 cup diced onion",
                         "2 cloves garlic, minced",
                         "1/2 tsp ground cumin",
-                        "1/2 tsp dried oregano",
-                        "1/2 tsp salt",
-                        "1/4 tsp black pepper",
-                        "1 cup shredded cheese",
-                        "1 egg, beaten",
                         "1/4 cup flour",
                         "1/4 cup vegetable oil",
                         "1 cup tomato sauce",
                         "1/4 cup sour cream"
                     ],
-                    "cooking_method": "1. Preheat broiler to high. 2. Place poblanos on a baking sheet and broil until skin is charred, about 5 minutes per side. 3. Transfer poblanos to a large bowl and cover with plastic wrap. 4. Let sit for 10 minutes, then peel off skin and remove seeds. 5. In a large skillet, cook ground beef, pork, onion, and garlic over medium-high heat until browned and cooked through, about 10 minutes. 6. Stir in cooked rice, cumin, oregano, salt, and black pepper. 7. Stuff each poblano with the beef mixture and a small handful of shredded cheese. 8. Close the opening with a toothpick. 9. In a shallow bowl, whisk together egg and flour. 10. Heat oil in a large skillet over medium-high heat. 11. Dip stuffed poblanos in egg mixture and coat with flour. 12. Fry poblanos in oil until golden brown.",
+                    "cooking_method": "1. Preheat broiler to high. 2. Place poblanos on a baking sheet and broil until skin is charred, about 5 minutes per side. 3. Transfer poblanos to a large bowl and cover with plastic wrap. 4. Let sit for 10 minutes, then peel off skin and remove seeds. 5. In a large skillet, cook ground beef, pork, onion, and garlic over medium-high heat until browned and cooked through, about 10 minutes. 6. Stir in cooked rice, cumin, oregano, salt, and black pepper. 7. Stuff each poblano with the beef mixture and a small handful of shredded cheese. 8. Close the opening with a toothpick. 9. In a shallow bowl, whisk together egg and flour.",
                     "rating": 4.5
                 },
                 { 
@@ -185,7 +178,7 @@
                 {
                     "id" : 3,
                     "name": "Tiramisu",
-                    "image": "https://ibb.co/2ktBhKw/Chiles Rellenos.jpg",
+                    "image": "https://i.ibb.co/2ktBhKw/Chiles-Rellenos.jpg",
                     "ingredients": [
                         "6 egg yolks",
                         "3/4 cup sugar",
@@ -197,7 +190,7 @@
                         "24 ladyfingers",
                         "1/4 cup cocoa powder"
                     ],
-                    "cooking_method": "1. In a large bowl, beat egg yolks and sugar until pale and creamy. 2. In a small saucepan, heat milk over medium heat until just simmering. 3. Gradually pour milk into egg mixture, whisking constantly. 4. Pour mixture back into saucepan and cook over low heat, stirring constantly, until thickened and coats the back of a spoon, about 5-7 minutes. 5. Remove from heat and let cool completely. 6. In a large bowl, beat heavy cream and vanilla extract until stiff peaks form. 7. In a separate bowl, beat mascarpone cheese until smooth. 8. Fold mascarpone cheese into egg mixture until well combined. 9. Dip ladyfingers in brewed espresso and layer in a 9x13 inch dish. 10. Spread half of the mascarpone mixture over the ladyfingers. 11. Repeat with another layer of ladyfingers and mascarpone mixture. 12. Refrigerate for at least 2 hours or overnight. 13. Before serving, sprinkle cocoa powder over the top of the tiramisu. 14. Serve chilled.",
+                    "cooking_method": "1. In a large bowl, beat egg yolks and sugar until pale and creamy. 2. In a small saucepan, heat milk over medium heat until just simmering. 3. Gradually pour milk into egg mixture, whisking constantly. 4. Pour mixture back into saucepan and cook over low heat, stirring constantly, until thickened and coats the back of a spoon, about 5-7 minutes. 5. Remove from heat and let cool completely. 6. In a large bowl, beat heavy cream and vanilla extract until stiff peaks form. 7. In a separate bowl, beat mascarpone cheese until smooth. 8. Fold mascarpone cheese into egg mixture until well combined. 9. Dip ladyfingers in brewed espresso and layer in a 9x13 inch dish.",
                     "rating": 4.9
                 }
             ]
@@ -229,7 +222,7 @@
                         "1/2 cucumber, sliced",
                         "Wasabi and soy sauce, for serving"
                     ],
-                    "cooking_method": "1. Rinse sushi rice in cold water until water runs clear. 2. In a medium saucepan, combine rice and water and bring to a boil. 3. Reduce heat to low and simmer, covered, for 18-20 minutes, or until rice is cooked and water is absorbed. 4. In a small saucepan, heat rice vinegar, sugar, and salt over low heat, stirring until sugar is dissolved. 5. Transfer cooked rice to a large bowl and stir in vinegar mixture until well combined. 6. Lay a sheet of nori on a sushi mat or piece of plastic wrap. 7. Spread a thin layer of rice over the nori, leaving a 1/2-inch border at the top. 8. Arrange slices of raw fish, avocado, and cucumber on top of the rice. 9. Using the mat or plastic wrap, roll the sushi tightly, tucking in the filling as you go. 10. Repeat with remaining nori and filling. 11. Slice sushi rolls into bite-sized pieces and serve with wasabi and soy sauce.",
+                    "cooking_method": "1. Rinse sushi rice in cold water until water runs clear. 2. In a medium saucepan, combine rice and water and bring to a boil. 3. Reduce heat to low and simmer, covered, for 18-20 minutes, or until rice is cooked and water is absorbed. 4. In a small saucepan, heat rice vinegar, sugar, and salt over low heat, stirring until sugar is dissolved. 5. Transfer cooked rice to a large bowl and stir in vinegar mixture until well combined. 6. Lay a sheet of nori on a sushi mat or piece of plastic wrap. 7. Spread a thin layer of rice over the nori, leaving a 1/2-inch border at the top. 8. Arrange slices of raw fish, avocado, and cucumber on top of the rice.",
                     "rating": 4.6
                 },
                 {
@@ -252,13 +245,11 @@
                 {
                     "id" : 3,
                     "name": "Ramen",
-                    "image": "https://ibb.co/2ktBhKw/Chiles Rellenos.jpg",
+                    "image": "https://i.ibb.co/LvRKnT6/Spaghetti-Carbonara.jpg",
                     "ingredients": [
                         "4 cups chicken broth",
                         "2 cloves garlic, minced",
                         "2 tbsp soy sauce",
-                        "2 tbsp miso paste",
-                        "1 tbsp mirin",
                         "1 tbsp sesame oil",
                         "1/2 lb ramen noodles",
                         "4 boiled eggs, halved",
@@ -294,9 +285,7 @@
                         "1 tbsp chili powder",
                         "1 tsp dried oregano",
                         "1 tsp ground cumin",
-                        "1/2 tsp salt",
                         "1/4 tsp black pepper",
-                        "12 corn tortillas",
                         "1/2 cup chopped onion",
                         "1/4 cup chopped cilantro",
                         "1 lime, cut into wedges"
@@ -307,7 +296,7 @@
                 {   
                     "id" : 2,
                     "name": "Rellenos",
-                    "image":"",
+                    "image":"https://i.ibb.co/2ktBhKw/Chiles-Rellenos.jpg",
                     "ingredients": [
                         "6 poblano peppers",
                         "1/2 lb ground beef",
@@ -316,17 +305,12 @@
                         "1/2 cup diced onion",
                         "2 cloves garlic, minced",
                         "1/2 tsp ground cumin",
-                        "1/2 tsp dried oregano",
-                        "1/2 tsp salt",
-                        "1/4 tsp black pepper",
-                        "1 cup shredded cheese",
                         "1 egg, beaten",
                         "1/4 cup flour",
-                        "1/4 cup vegetable oil",
                         "1 cup tomato sauce",
                         "1/4 cup sour cream"
                     ],
-                    "cooking_method": "1. Preheat broiler to high. 2. Place poblanos on a baking sheet and broil until skin is charred, about 5 minutes per side. 3. Transfer poblanos to a large bowl and cover with plastic wrap. 4. Let sit for 10 minutes, then peel off skin and remove seeds. 5. In a large skillet, cook ground beef, pork, onion, and garlic over medium-high heat until browned and cooked through, about 10 minutes. 6. Stir in cooked rice, cumin, oregano, salt, and black pepper. 7. Stuff each poblano with the beef mixture and a small handful of shredded cheese. 8. Close the opening with a toothpick. 9. In a shallow bowl, whisk together egg and flour. 10. Heat oil in a large skillet over medium-high heat. 11. Dip stuffed poblanos in egg mixture and coat with flour. 12. Fry poblanos in oil until golden brown.",
+                    "cooking_method": "1. Preheat broiler to high. 2. Place poblanos on a baking sheet and broil until skin is charred, about 5 minutes per side. 3. Transfer poblanos to a large bowl and cover with plastic wrap. 4. Let sit for 10 minutes, then peel off skin and remove seeds. 5. In a large skillet, cook ground beef, pork, onion, and garlic over medium-high heat until browned and cooked through, about 10 minutes. 6. Stir in cooked rice, cumin, oregano, salt, and black pepper. 7. Stuff each poblano with the beef mixture. 8. Close the opening with a toothpick. 9. In a shallow bowl, whisk together egg and flour. 10. Heat oil in a large skillet over medium-high heat. 11. Dip stuffed poblanos in egg mixture and coat with flour. 12. Fry poblanos in oil until golden brown.",
                     "rating": 4.5
                 },
                 { 
