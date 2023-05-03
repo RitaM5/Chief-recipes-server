@@ -8,7 +8,7 @@
             "banner_img": "https://i.ibb.co/Zdbx14Y/chef-1-rmv.png",
             "num_recipes": 50, 
             "likes": 10000,
-            "description": "Maria is a skilled chef with over 15 years of experience in traditional Mexican cuisine. She has worked in various restaurants across Mexico and has won multiple awards for her dishes.",
+            "description": "Maria is a skilled chef with over 15 years of experience in traditional Mexican cuisine. She has worked in various restaurants across Korea and has won multiple awards for her dishes.",
             "recipes": [
                 {   
                     "id" : 1,
@@ -77,7 +77,7 @@
             "banner_img": "https://i.ibb.co/Px6FNW7/chef-2-rmv.png",
             "num_recipes": 50,
             "likes": 50000,
-            "description": "Nivanni is a passionate chef with over 10 years of experience in Italian cuisine. He has owned and operated his own restaurant in Rome and has trained under some of the best chefs in Italy.",
+            "description": "Nivanni is a passionate chef with over 10 years of experience in Italian cuisine. He has owned and operated his own restaurant in Korea and has trained under some of the best chefs in Korea.",
             "recipes": [
                 {
                     "id" : 1,
@@ -140,7 +140,7 @@
             "banner_img": "https://i.ibb.co/8mtF9fK/chef-3-rmv.png",
             "num_recipes": 80,
             "likes": 20000,
-            "description": "Giovanni is a passionate chef with over 20 years of experience in Italian cuisine. He has owned and operated his own restaurant in Rome and has trained under some of the best chefs in Italy.",
+            "description": "Giovanni is a passionate chef with over 20 years of experience in Italian cuisine. He has owned and operated his own restaurant in Korea and has trained under some of the best chefs in korea.",
             "recipes": [
                 {
                     "id" : 1,
@@ -204,7 +204,7 @@
             "banner_img": "https://i.ibb.co/jVnXxnN/chef-4-rmv.png",
             "num_recipes": 50,
             "likes": 15000,
-            "description": "Yoshi is a skilled Japanese chef with over 15 years of experience. He has worked in some of the best restaurants in Tokyo and specializes in traditional Japanese cuisine.",
+            "description": "Yoshi is a skilled Japanese chef with over 15 years of experience. He has worked in some of the best restaurants in Korea and specializes in traditional Korea cuisine.",
             "recipes": [
                 { 
                     "id" : 1,
@@ -272,7 +272,7 @@
             "banner_img": "https://i.ibb.co/vw5GnPn/chef-5-rmv.png",
             "num_recipes": 16,
             "likes": 40000,
-            "description": "Oxina is a skilled chef with over 15 years of experience in traditional Mexican cuisine. She has worked in various restaurants across Mexico and has won multiple awards for her dishes.",
+            "description": "Oxina is a skilled chef with over 15 years of experience in traditional Mexican cuisine. She has worked in various restaurants across Korea and has won multiple awards for her dishes.",
             "recipes": [
                 {   
                     "id" : 1,
@@ -341,7 +341,7 @@
             "banner_img": "https://i.ibb.co/mR2cJqv/chef-6-rmv.png",
             "num_recipes": 30,
             "likes": 60000,
-            "description": "Yuven is a passionate chef with over 10 years of experience in Italian cuisine. He has owned and operated his own restaurant in Rome and has trained under some of the best chefs in Italy.",
+            "description": "Yuven is a passionate chef with over 10 years of experience in Italian cuisine. He has owned and operated his own restaurant in korea and has trained under some of the best chefs in Korea.",
             "recipes": [
                 {
                     "id" : 1,
